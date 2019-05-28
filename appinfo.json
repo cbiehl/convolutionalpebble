@@ -1,5 +1,5 @@
 {
-  "uuid": "0b34956b-7dcb-4c62-bba7-5e792dbb603f",
+  "uuid": "4234956b-7dcb-4c62-bba7-5e792dbb6042",
   "shortName": "convolutional",
   "longName": "getconvolutional",
   "companyName": "MakeAwesomeHappen",
@@ -20,7 +20,7 @@
       {
         "type": "raw",
         "name": "ANIMATION",
-        "file": "images/animation.png"
+        "file": "images/convolution.png"
       }
     ]
   }

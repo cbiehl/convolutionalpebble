@@ -1,4 +1,4 @@
-# Pebble Time app displaying a convolution animation
+# Pebble Time app displaying a convolution animation while training a neural net
 
 ## Roadmap:
-- actually training a convnet on the Pebble while displaying the animation :-)
+- convnets, lstms, Android companion app, model export
